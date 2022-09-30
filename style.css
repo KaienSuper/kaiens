@@ -2,3 +2,13 @@ h1{
   font-size: 50px;
   color: blue;
 }
+
+.header_main{
+  background_color: black;
+  margin: 0px;
+}
+
+.main_main{
+  background_color: gray;
+  margin: 0px;
+}
