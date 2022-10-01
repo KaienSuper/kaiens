@@ -12,4 +12,10 @@ h1{
 .main_main{
   background_color: gray;
   margin: 0px;
+  min_height: 100vh;
+}
+
+.footer_main{
+  background_color: white;
+  min_height: 10vh;
 }
