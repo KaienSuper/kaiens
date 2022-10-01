@@ -6,7 +6,7 @@ h1{
 .header_main{
   background_color: black;
   margin: 0px;
-  height: 10vh;
+  min_height: 10vh;
 }
 
 .main_main{
