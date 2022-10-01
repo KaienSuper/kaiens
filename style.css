@@ -4,7 +4,7 @@ h1{
 }
 
 .header_main{
-  background_color: black;
+  background: #111;
   margin: 0px;
   min_height: 10vh;
 }
