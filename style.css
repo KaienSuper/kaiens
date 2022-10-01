@@ -6,16 +6,16 @@ h1{
 .header_main{
   background: #111;
   margin: 0px;
-  min_height: 10vh;
+  min-height: 10vh;
 }
 
 .main_main{
   background_color: gray;
   margin: 0px;
-  min_height: 100vh;
+  min-height: 100vh;
 }
 
 .footer_main{
   background_color: white;
-  min_height: 10vh;
+  min-height: 10vh;
 }
